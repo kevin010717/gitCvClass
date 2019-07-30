@@ -19,6 +19,8 @@ But please DO REMEMBER procedures of SIFT and HoG. For those who're interested i
    K-Means: I have no doubts about what you are going to read and where you gonna find the reading materials. 
             There are tons of papers/blogs describing k-means. Just grab one and read.
 			We'll this topic in 3 weeks.
+
+
 			
 [Coding]:			
 1. 
